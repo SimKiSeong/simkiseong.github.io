@@ -206,6 +206,13 @@ li ol {
 /* Figures and images */
 
 figure {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: start;
+  align-items: flex-start;
+  flex-wrap: wrap;
   margin: 2em 0;
 
   img,
