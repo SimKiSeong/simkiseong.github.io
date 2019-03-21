@@ -107,10 +107,10 @@ analytics:
 # Site Author
 author:
   name             : "심퀴"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/simqi.jpeg"
   bio              : "최고가 되고싶은 주니어 개발자입니다."
   location         : "대한민국"
-  email            : "totokisung@gmail.com"
+  # email            : "totokisung@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
